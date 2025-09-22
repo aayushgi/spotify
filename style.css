@@ -232,3 +232,13 @@ margin-right: 1rem;
 .progress-bar{
     width: 70%;
 }
+/* .album{
+    height: 1rem;
+    
+} */
+.album-img{
+ height: 50px;
+ margin-left: 20px;
+ border: 2px solid white;
+ border-radius: 2px;
+}
